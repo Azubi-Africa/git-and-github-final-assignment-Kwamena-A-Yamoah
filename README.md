@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Caesar Cipher Decryption             |  An algorithm to encrypt and decrypt its internal messages using Caesar's Cipher             | https://github.com/Kwamena-A-Yamoah/Caesar-Cipher-Decryption       |
+| 2 |  Sales and Operations Planning Project             |  A sales and operations planning simulator using the zero-stock level strategy             | https://github.com/Kwamena-A-Yamoah/Sales-and-Operations-Planning-Project.git       |
+| 3 |  Titanic Ticket Predictor             |  Building a regression model to predict ticket price(Fare)             | https://github.com/Kwamena-A-Yamoah/Titanic-Ticket-Predictor       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
